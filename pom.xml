@@ -30,7 +30,7 @@
         <guava.version>29.0-jre</guava.version>
         <commons-collections.version>3.2.1</commons-collections.version>
         <snakeyaml.version>1.27</snakeyaml.version>
-        <spring-security.version>5.5.0</spring-security.version>
+        <spring-security.version>5.7.0</spring-security.version>
     </properties>
 
     <!-- ─── Dependencies ─── -->
