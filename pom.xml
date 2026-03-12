@@ -25,12 +25,12 @@
     <!-- ─── Properties ─── -->
     <properties>
         <java.version>11</java.version>
-        <log4j.version>2.17.1</log4j.version>
+        <log4j.version>2.14.0</log4j.version>
         <jackson.version>2.12.0</jackson.version>
         <guava.version>29.0-jre</guava.version>
         <commons-collections.version>3.2.1</commons-collections.version>
         <snakeyaml.version>1.27</snakeyaml.version>
-        <spring-security.version>5.7.0</spring-security.version>
+        <spring-security.version>5.5.0</spring-security.version>
     </properties>
 
     <!-- ─── Dependencies ─── -->
